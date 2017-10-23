@@ -1,0 +1,30 @@
+
+Scoring LiveJournal2014:
+	positive: P=77.28, R=48.25, F1=59.41
+	negative: P=14.14, R=48.86, F1=21.94
+	 neutral: P=48.66, R=54.05, F1=51.22
+	OVERALL SCORE : 40.67
+
+Scoring SMS2013:
+	positive: P=73.98, R=31.99, F1=44.66
+	negative: P=35.28, R=40.17, F1=37.57
+	 neutral: P=40.68, R=80.62, F1=54.07
+	OVERALL SCORE : 41.12
+
+Scoring Twitter2013:
+	positive: P=64.69, R=60.75, F1=62.66
+	negative: P=28.79, R=40.61, F1=33.69
+	 neutral: P=63.29, R=60.60, F1=61.91
+	OVERALL SCORE : 48.18
+
+Scoring Twitter2014:
+	positive: P=67.01, R=69.70, F1=68.33
+	negative: P=15.35, R=39.74, F1=22.14
+	 neutral: P=69.81, R=56.20, F1=62.27
+	OVERALL SCORE : 45.24
+
+Scoring Twitter2014Sarcasm:
+	positive: P=81.82, R=45.76, F1=58.70
+	negative: P=5.00, R=25.00, F1=8.33
+	 neutral: P=61.54, R=42.11, F1=50.00
+	OVERALL SCORE : 33.51
